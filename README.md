@@ -25,7 +25,6 @@ Other in-game sounds like shooting or walking have been taken from the open-sour
 All sprites and animations have been created manually using applications such as: Adobe Photoshop CC, Paint and Paint 3D. 
 The designs on each particular soldier has been inspired by the uniforms of the Polish Legion, French and British Grenadiers, Prussian Landwehr and Russian Infantry from the period of Napoleonic Wars. 
 
-
 2	GETTING STARTED
 
 2.1	INSTALLATION
@@ -38,8 +37,6 @@ Moreover, after finishing the round you will be able to see here your current sc
 
 2.3	SETTING
 As it was previously mentioned game has four different battlegrounds, each with its unique troops and background music. 
- 
-
 
 3	HOW TO PLAY?
 
